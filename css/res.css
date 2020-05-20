@@ -1,0 +1,152 @@
+body {
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+
+}
+
+/*@todo --> Colored Background dan Text Color umum di sini
+*/
+
+.bg-1 {
+    background-color: #34190b;
+}
+/*BACKGROUND FOR BUTTONS 1*/
+.bg-2 {
+    background-color: #e4002b;
+}
+.bg-3 {
+
+}
+.bg-4 {
+
+}
+.bg-5 {
+
+}
+
+.color-1 {
+
+}
+.color-2 {
+
+}
+.color-3 {
+
+}
+.color-4 {
+
+}
+.color-5 {
+
+}
+
+
+/*@todo --> Ganti image dengan cara menambahkan image ke ../assets/img/ dan mengganti background image di bawah ini
+  @todo --> Image class terdiri dari background image 1, 2, dan 3 di homepage serta menu image pada homepage dan menupage
+*/
+
+/*BACKGROUND*/
+.bg-image-home-1 {
+    background-image: url("../assets/img/background images/background_home.jpg");
+}
+.bg-image-home-2{
+    background-image: url("../assets/img/background images/background_home_2.jpg");
+}
+.bg-image-home-3{
+    background-image: url("../assets/img/background images/background_home_3.jpg");
+}
+.bg-image-home-4{
+    background-image: url("../assets/img/background images/background_home_4.jpg");
+}
+
+/*IMAGE*/
+.image-boba-main {
+    background-image: url("../assets/img/menu images/boba.png");
+}
+.image-boba-menu-1 {
+    background-image: url("../assets/img/menu images/boba-1.png");
+}
+.image-boba-menu-2 {
+    background-image: url("../assets/img/menu images/boba-2.png");
+}
+.image-boba-menu-3 {
+    background-image: url("../assets/img/menu images/boba-3.png");
+}
+.image-boba-menu-4 {
+    background-image: url("../assets/img/menu images/boba-4.png");
+}
+.image-boba-menu-5 {
+    background-image: url("../assets/img/menu images/boba-5.png");
+}
+.image-boba-menu-6 {
+    background-image: url("../assets/img/menu images/boba-6.png");
+}
+.image-boba-menu-7 {
+    background-image: url("../assets/img/menu images/boba-7.png");
+}
+.image-boba-menu-8 {
+    background-image: url("../assets/img/menu images/boba-8.png");
+}
+.image-boba-menu-9 {
+    background-image: url("../assets/img/menu images/boba-9.png");
+}
+.image-boba-menu-10 {
+    background-image: url("../assets/img/menu images/boba-10.png");
+}
+.image-person {
+    background-image: url("../assets/img/aboutus-person.jpg");
+}
+
+/*LOGO*/
+
+.image-logo-white {
+    content: url("../assets/img/web logo/logo-white.png");
+}
+.image-logo-black {
+    content: url("../assets/img/web logo/logo-black.png");
+}
+.image-logo-circled-white {
+    content: url("../assets/img/web logo/logo-circled-white.png");
+}
+.image-logo-circled-black {
+    content: url("../assets/img/web logo/logo-circled-black.png");
+}
+.image-logo-typo-white {
+    content: url("../assets/img/web logo/logo-typo-white.png");
+}
+.image-logo-typo-black {
+    content: url("../assets/img/web logo/logo-typo-black.png");
+}
+
+/*ICONS*/
+.icon-home-1{
+    content:url("../assets/img/sertified logos/logo-1.jpg");
+}
+.icon-home-2{
+    content:url("../assets/img/sertified logos/logo-2.jpg");
+}
+.icon-home-3{
+    content:url("../assets/img/sertified logos/logo-3.jpg");
+}
+.icon-socmed-1{
+    content:url("../assets/img/social media/facebook_logo.png");
+}
+.icon-socmed-2{
+    content:url("../assets/img/social media/instagram_logo.png");
+}
+.icon-socmed-3{
+    content:url("../assets/img/social media/twitter_logo.png");
+}
+.icon-socmed-4{
+    content:url("../assets/img/social media/youtube_logo.webp");
+}
+
+
+
+/*YANG LAINNYA*/
+
+/*BACKGROUND IMAGE NORMAL SETTINGS*/
+.bg-image {
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: center;
+}

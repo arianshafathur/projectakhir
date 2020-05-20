@@ -1,0 +1,83 @@
+@media screen and (max-width: 768px) {
+    .fz-14 {
+        font-size: 14px;
+    }
+    .fz-16 {
+        font-size: 16px;
+    }
+    .fz-18 {
+        font-size: 18px;
+    }
+    .fz-20 {
+        font-size: 20px;
+    }
+    .fz-40 {
+        font-size: 30px;
+    }
+    .fz-60 {
+        font-size: 40px;
+    }
+    .padding-768-0{
+        padding: 0;
+    }
+
+    .width-76-full{
+        width: 100%;
+    }
+
+    .height-wrap {
+        height: auto;
+    }
+
+    .height-full.padding-lg {
+        margin: auto !important;
+        padding: 0 !important;
+    }
+
+    .height-wrap .vertical-center {
+        position: relative;
+        transform: none;
+        top: 0;
+        left: 0;
+    }
+    .width-768-full.vertical-center {
+        width: 100%;
+    }
+
+    .height-min-auto {
+        min-height: auto;
+    }
+
+    .width-full {
+        width: 100%;
+    }
+
+    footer > .col-sm-3{
+        margin-bottom: 30px !important;
+    }
+    footer .raw {
+        display: block;
+    }
+
+    #orders, #price {
+        text-align: center;
+        float: none !important;
+    }
+
+    footer .image-logo-white {
+        margin-top: 50px;
+        border-top: 1px solid rgba(255,255,255,0.3);
+        padding-top: 50px;
+    }
+
+    div #title {
+        font-size: calc(3vw + 17px) !important;
+        letter-spacing: 2vw;
+    }
+    #feeds .col-sm-4, #feeds .col-sm-12 {
+        width: 100vw;
+        padding: 0 !important;
+    }
+
+}
+

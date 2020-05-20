@@ -1,0 +1,40 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .height-wrap {
+        height: auto;
+    }
+
+    .height-full.padding-lg {
+        margin: auto !important;
+        padding: 0 !important;
+    }
+
+    .height-half {
+        min-height: 300px;
+    }
+
+    .height-wrap .vertical-center {
+        position: relative;
+        transform: none;
+        top: 0;
+        left: 0;
+
+    }
+
+    .height-min-auto {
+        min-height: auto;
+    }
+
+    .col-sm-4 .image-boba{
+        height: 100px;
+    }
+
+    .width-full {
+        width: 100%;
+    }
+
+    footer .image-logo-white {
+        margin-top: 50px;
+        border-top: 1px solid rgba(255,255,255,0.3);
+        padding-top: 50px;
+    }
+}

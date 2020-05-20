@@ -1,0 +1,27 @@
+@media screen and (min-width: 992px) and (max-width: 1220px) {
+
+    .height-full.padding-lg {
+        margin: auto !important;
+        padding: 0 !important;
+    }
+
+    .height-wrap {
+        height: auto;
+    }
+    .height-half {
+        min-height: 400px;
+    }
+    .height-min-auto {
+        min-height: auto;
+    }
+
+    .image-boba{
+        height: 200px;
+    }
+
+    div #title {
+        font-size: calc(3vw + 17px) !important;
+        letter-spacing: 2vw;
+    }
+
+}
